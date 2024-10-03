@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PGWHelper",
-            url:"https://2c2p-cloudfront.s3.ap-southeast-1.amazonaws.com/devPortal/demoCode/Mobile/PGW_SDK/PGWHelper/PGW_SDK_HELPER_iOS_v4.2.0/PGW_SDK_HELPER_iOS_v4.2.0.zip",
-            checksum: "b3cbe6ee3a8218756d47a5fe54066175bd620a79d6b76936c58de8eb493e7965"
+            url:"https://d27uu9vmlo4gwh.cloudfront.net/PGW_SDK_HELPER_iOS_v4.2.1.zip",
+            checksum: "52c936f9d4368d7704440aff76f9b51005003ea100fc5a30069ca79a7351826a"
         ),
         .binaryTarget(
             name: "zpdk",
