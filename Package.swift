@@ -19,7 +19,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PGWHelper",
-            url:"https://d27uu9vmlo4gwh.cloudfront.net/PGW_SDK_HELPER_iOS_v4.2.1.zip",
+            url:"https://d27uu9vmlo4gwh.cloudfront.net/PGW_SDK_HELPER_iOS_v4.2.1/PGW_SDK_HELPER_iOS_v4.2.1.zip",
             checksum: "52c936f9d4368d7704440aff76f9b51005003ea100fc5a30069ca79a7351826a"
         ),
         .binaryTarget(
